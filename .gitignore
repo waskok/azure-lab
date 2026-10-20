@@ -60,3 +60,6 @@ terraform.rc
 
 # spakowany kod Functions
 tofu/**/*.zip
+
+.sops.yaml
+secrets.yaml
