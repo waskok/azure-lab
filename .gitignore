@@ -62,4 +62,3 @@ terraform.rc
 tofu/**/*.zip
 
 .sops.yaml
-secrets.yaml
