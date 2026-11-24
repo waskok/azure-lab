@@ -63,6 +63,7 @@ locals {
     cr      = "crcommon${local.yy}${local.sid}"
     id_pull = "id-acrpull-${local.yy}"
     gallery = "gal_labs_${local.yy}" # snake_case: galeria nie dopuszcza '-'
+    image_base = "img-lab007-base"
     log     = "log-common-${local.yy}"
   }
 }
